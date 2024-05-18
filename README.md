@@ -1,2 +1,2 @@
 # GOLANG-CRUD
-fazendo um CRUD na linguagem GoLang para treinar
+Este projeto tem por objetivo treinar minha sintaxe e lógica na linguagem de programação GoLang :)
